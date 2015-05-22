@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/puppetmaster":{"guestpath":"/home/vagrant/puppetmaster","hostpath":"/Users/ben/vagrant/puppetmaster","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ben/vagrant/puppetmaster","disabled":false}}}
